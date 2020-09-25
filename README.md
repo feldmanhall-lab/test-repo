@@ -7,4 +7,5 @@ This is for testing out GitHub features without critically breaking other projec
 ## Gibberish:
 
 gibber jabber
-trying to force a merge conflict to see what happens when I try to fetch/merge from upstream, wish me luck
+
+wibber vabber
